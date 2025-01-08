@@ -14,7 +14,7 @@ This project recreates the iconic rotary dial mechanism found in vintage telepho
 
 ## Demo
 
-<img src="graphics/demo.gif" width="300" alt="Demo">
+<img src="graphics/demo_1.gif" width="300" alt="Demo">
 
 ## Implementation Highlights
 
